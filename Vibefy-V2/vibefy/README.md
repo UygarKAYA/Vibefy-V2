@@ -46,3 +46,27 @@
 **_You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started)._**
 
 **_To learn React, check out the [React documentation](https://reactjs.org/)._**
+
+**_Code Splitting_**
+
+**_This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting_**
+
+**_Analyzing the Bundle Size_**
+
+**_This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size_**
+
+**_Making a Progressive Web App_**
+
+**_This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app_**
+
+**_Advanced Configuration_**
+
+**_This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration_**
+
+**_Deployment_**
+
+**_This section has moved here: https://facebook.github.io/create-react-app/docs/deployment_**
+
+**_`npm run build` fails to minify_**
+
+**_This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify_**

@@ -1,4 +1,4 @@
-**_Vibefy-V2_**
+# _Vibefy-V2_
 
 _Vibefy is a Website that people can listen to music based on their mood. People can listen to the music they want from four different music by selecting the desired mode from four different modes which are happy, sad, energetic and angry._
 
